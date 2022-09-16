@@ -1,2 +1,2 @@
-# Learning-HTML
-Learning and Documenting HTML
+# Learning HTML
+Learning & Documenting HTML
