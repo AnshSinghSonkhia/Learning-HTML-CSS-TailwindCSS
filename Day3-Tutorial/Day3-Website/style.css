@@ -1,0 +1,19 @@
+h1 {
+  color: brown;
+}
+
+ul {
+  color: darkblue;
+}
+
+.odd {
+  background-color: red;
+}
+
+.even {
+  background-color: yellow;
+}
+
+#third {
+  background-color: white;
+}
