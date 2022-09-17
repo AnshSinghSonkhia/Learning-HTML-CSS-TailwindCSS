@@ -3,8 +3,6 @@ Learning & Documenting HTML
 
 ## HTML Resources & Websites...
 
-- [MDN Reference HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
 <table>
   <tr>
     <th>Resources</th>
