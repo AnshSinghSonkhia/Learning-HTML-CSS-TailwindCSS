@@ -5,3 +5,14 @@ Learning & Documenting HTML
 
 - [MDN Reference HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+<table>
+  <tr>
+    <th>Resources</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>MDN References HTML</td>
+    <td>https://developer.mozilla.org/en-US/docs/Web/HTML/Element</td>
+  </tr>
+</table>
+
