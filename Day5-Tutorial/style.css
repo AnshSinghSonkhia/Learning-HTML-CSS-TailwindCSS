@@ -1,0 +1,26 @@
+.in {
+  background-color: red;
+  width: 70%;
+  height: 100px;
+}
+.out {
+  background-color: yellow;
+  width: 50%;
+  height: 150px;
+}
+.in2 {
+  background-color: red;
+  width: 40vw;
+  height: 100px;
+}
+.out2 {
+  background-color: yellow;
+  width: 70vw;
+  height: 150px;
+}
+.txt {
+  font-size: 1em;
+}
+.txt2 {
+  font-size: 2em;
+}
