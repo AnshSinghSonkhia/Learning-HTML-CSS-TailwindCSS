@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+}
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+ul {
+  margin: 50;
+  padding-left: 50px;
+  list-style-type: circle;
+}
+#done {
+  color: red;
+  text-decoration-line: line-through;
+}
+#unfinished {
+  color: rgb(0, 255, 0);
+}
+.sand {
+  text-decoration-line: underline;
+}
