@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+}
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+
+.mdn {
+  border: 5px solid salmon; /* Thickness of the border of image - SOLID, DOTTED, Dashed  is the type of border*/
+  cursor: pointer;
+  box-shadow: 10px 10px 10px darkblue; /* hOffset - vOffset - blur - spread - colour*/
+  height: 400px;
+  margin-right: 300px;
+}
+.mdn2 {
+  border: 5px solid salmon; /* Thickness of the border of image - SOLID, DOTTED, Dashed  is the type of border*/
+  cursor: pointer;
+  box-shadow: -10px -10px 10px darkblue; /* hOffset - vOffset - blur - spread - colour*/
+  height: 400px;
+}
+.test {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: darkmagenta;
+  color: rgb(126, 20, 78);
+}
