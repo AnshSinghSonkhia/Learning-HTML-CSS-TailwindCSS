@@ -15,6 +15,11 @@ Learning & Documenting HTML-CSS
   <tr>
     <td>Geeks for Geeks</td>
     <td>https://www.geeksforgeeks.org/html</td>
+  </tr>
+  <tr>
+    <td>CodeWithHarry HTML Cheatsheet</td>
+    <td>https://www.codewithharry.com/blogpost/html-cheatsheet</td>
+  </tr>
 </table>
 
 ## 🧔‍♂️ CSS Resources & Cheatsheets..
@@ -35,5 +40,9 @@ Learning & Documenting HTML-CSS
   <tr>
     <td>CSS Tricks</td>
     <td>https://css-tricks.com</td>
+  </tr>
+  <tr>
+    <td>CodeWithHarry CSS Cheatsheet</td>
+    <td>https://www.codewithharry.com/blogpost/css-cheatsheet</td>
   </tr>
 </table>
