@@ -26,9 +26,9 @@ Learning & Documenting HTML-CSS
   </tr>
   <tr>
     <td>MDN References HTML</td>
-    <td>https://developer.mozilla.org/en-US/docs/Web/HTML/Element</td>
+    <td>https://developer.mozilla.org/en-US/docs/Web/CSS</td>
   </tr>
   <tr>
     <td>Geeks for Geeks</td>
-    <td>https://www.geeksforgeeks.org/html</td>
+    <td>https://www.geeksforgeeks.org/css</td>
 </table>
