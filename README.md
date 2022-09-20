@@ -31,4 +31,9 @@ Learning & Documenting HTML-CSS
   <tr>
     <td>Geeks for Geeks</td>
     <td>https://www.geeksforgeeks.org/css</td>
+  </tr>
+  <tr>
+    <td>CSS Tricks</td>
+    <td>https://css-tricks.com</td>
+  </tr>
 </table>
