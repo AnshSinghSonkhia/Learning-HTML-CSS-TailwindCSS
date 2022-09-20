@@ -17,3 +17,18 @@ Learning & Documenting HTML-CSS
     <td>https://www.geeksforgeeks.org/html</td>
 </table>
 
+## 🪵 CSS Resources & Websites..
+
+<table>
+  <tr>
+    <th>Resources</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>MDN References HTML</td>
+    <td>https://developer.mozilla.org/en-US/docs/Web/HTML/Element</td>
+  </tr>
+  <tr>
+    <td>Geeks for Geeks</td>
+    <td>https://www.geeksforgeeks.org/html</td>
+</table>
