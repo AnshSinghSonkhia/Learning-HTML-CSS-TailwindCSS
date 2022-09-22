@@ -20,6 +20,10 @@ Learning & Documenting HTML-CSS
     <td>CodeWithHarry HTML Cheatsheet</td>
     <td>https://www.codewithharry.com/blogpost/html-cheatsheet</td>
   </tr>
+  <tr>
+    <td>W3Schools</td>
+    <td>https://www.w3schools.com/html</td>
+  </tr>
 </table>
 
 ## 🧔‍♂️ CSS Resources & Cheatsheets..
