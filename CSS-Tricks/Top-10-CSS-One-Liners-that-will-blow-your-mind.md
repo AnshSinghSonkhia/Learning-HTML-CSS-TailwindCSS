@@ -1,4 +1,4 @@
-# Top 10 CSS One-Liners - <i>developedbyed</i>
+# Top 10 CSS One-Liners that will Blow Your Mind &nbsp;&nbsp;&nbsp;- <i>developedbyed</i>
 
 ## 1. Vertical Text
 The `writing-mode` CSS property sets whether lines of text are laid out horizontally or vertically, as well as the direction in which blocks progress. <br>When set for an entire document, it should be set on the root element <br> (html element for HTML documents).
