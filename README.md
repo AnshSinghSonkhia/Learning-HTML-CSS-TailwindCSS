@@ -1,4 +1,4 @@
-# <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="30"/>&nbsp;Learning HTML-CSS &nbsp;![](https://img.shields.io/badge/-HTML-darkred?style=flat&logo=Html5&logoColor=white)&nbsp;
+# <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="30"/>&nbsp;Learning HTML-CSS &nbsp;![](https://img.shields.io/badge/-HTML-black?style=flat&logo=Html5&logoColor=orange)&nbsp;![](https://img.shields.io/badge/-CSS-black?style=flat&logo=Css3&logoColor=lightblue)&nbsp;![](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindCSS&logoColor=blue)
 Learning & Documenting HTML-CSS
 
 ## 💀 HTML Resources & Cheatsheets..
